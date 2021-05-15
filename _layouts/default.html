@@ -29,7 +29,7 @@
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
-            <div class="outer-logo"><a href="{{ " " | absolute_url }}"><img src="{{site.logo | relative_url}}" alt="Logo" class="logo" style="display: block; margin-left: auto;margin-right: auto; width: 75%;"/></a></div>
+            <div class="outer-logo"><a href="{{ " " | absolute_url }}"><img src="{{site.logo | relative_url}}" alt="Logo" class="logo" style="display: block; margin-left: auto;margin-right: auto; width: 75%; image-rendering: optimizeSpeed;image-rendering: -moz-crisp-edges; image-rendering: -o-crisp-edges; image-rendering: -webkit-optimize-contrast; image-rendering: pixelated; image-rendering: optimize-contrast; -ms-interpolation-mode: nearest-neighbor;"/></a></div>
         {% endif %}
         
         <br/>
