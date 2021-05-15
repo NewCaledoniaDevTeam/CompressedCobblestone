@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+show_downloads: true
+logo: /ccrp/pack_icon.png
+title: Compressed Cobblestone
