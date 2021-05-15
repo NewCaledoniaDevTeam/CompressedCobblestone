@@ -1,5 +1,8 @@
  <div align="center" style="display: block; margin-left: auto; margin-right: auto;">
   
+  <a href="https://github.com/NewCaledoniaDevTeam/CompressedCobblestone/releases">
+    <img src="https://img.shields.io/github/v/release/NewCaledoniaDevTeam/CompressedCobblestone.svg?style=for-the-badge&color=green" alt="Releases" width="145" height="28">
+  </a>
   <a href="https://github.com/NewCaledoniaDevTeam/CompressedCobblestone/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/NewCaledoniaDevTeam/CompressedCobblestone.svg?style=for-the-badge" alt="Contributors" width="153.5" height="28">
   </a>
@@ -13,7 +16,7 @@
     <img src="https://img.shields.io/github/issues/NewCaledoniaDevTeam/CompressedCobblestone.svg?style=for-the-badge" alt="Issues" width="141" height="28">
   </a>
   <a href="https://github.com/NewCaledoniaDevTeam/FabricJavaMod/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/NewCaledoniaDevTeam/CompressedCobblestone.svg?style=for-the-badge" alt="MIT License" width="122.5" height="28">
+    <img src="https://img.shields.io/github/license/NewCaledoniaDevTeam/CompressedCobblestone.svg?style=for-the-badge&color=yellow" alt="MIT License" width="122.5" height="28">
   </a>
 
 </div>
